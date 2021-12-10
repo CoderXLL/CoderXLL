@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CoderXLL</h1>
+<h1 align="center" color="blue">Hi 👋, I'm CoderXLL</h1>
 <h3 align="center">An iOS developer from Hangzhou, China</h3>
 
 > - :orange_book: 关注OC & Swift in iOS
