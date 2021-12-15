@@ -6,4 +6,4 @@
 > - :ram: 曾自学过Vue.js、React.js、小程序开发(原生、WePY.js)，但没机会在业务中体验
 > - :meat_on_bone: 爱食肉糜
 
-[![CoderXLL's github stats](https://github-readme-stats.vercel.app/api?username=b593771943)](https://github.com/b593771943/b593771943)
+[![CoderXLL's github stats](https://github-readme-stats.vercel.app/api?username=CoderXLL)](https://github.com/CoderXLL/CoderXLL)
